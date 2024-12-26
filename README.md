@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a **Data Analyst** passionate about turning data into actionable insights. I specialize in analyzing complex datasets to uncover trends, optimize processes, and drive business decisions.
 
----
-
 ## About Me
 
 - 🔍 **What I Do:** I analyze data, build visualizations, and create reports that tell stories from numbers.
@@ -11,8 +9,6 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about turning da
 - 🧠 **Currently Learning:** Advanced Machine Learning Techniques and Time Series Analysis.
 - 🎯 **Passionate About:** Solving business problems through data and exploring the potential of data-driven decision-making.
 - 🌍 **Fun Fact:** When I’m not analyzing data, you’ll find me exploring the outdoors or learning about new cultures.
-
----
 
 ## 🚀 Skills & Tools
 
