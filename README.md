@@ -1,6 +1,6 @@
-# Hi there! I'm Siddhi Shastri.
+# Hi, I'm Siddhi!
 
-Welcome to my GitHub profile! I'm a **Data Analyst** passionate about turning data into actionable insights. I specialize in analyzing complex datasets to uncover trends, optimize processes, and drive business decisions.
+Hey there! I'm diving into the world of data analysis after years of excelling as a Marketing Analyst, specializing in e-commerce and finance.
 
 ## About Me
 
