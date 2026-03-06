@@ -1,10 +1,10 @@
 # Hi, I'm Siddhi!
 
-I’m a Computer Science graduate and an Online Marketing Specialist with over 4 years of experience in SEO and digital marketing. My work focuses on technical SEO, website optimization, keyword strategy, and data-driven marketing decisions.
+I’m a Computer Science graduate and an Online Marketing Specialist with over 4 years of experience in SEO and digital marketing. My work focuses on technical SEO, website optimization, keyword strategy and data-driven marketing decisions.
 
-After moving to Germany, I started working on small data analysis projects as personal learning projects to strengthen my analytical and reporting skills. These projects help me better analyze marketing data, visualize performance metrics, and make data-driven SEO decisions.
+After moving to Germany, I started working on small data analysis projects as personal learning projects to strengthen my analytical and reporting skills. These projects help me better analyze marketing data, visualize performance metrics and make data-driven SEO decisions.
 
-My main professional focus remains SEO, digital marketing strategy, and marketing analytics.
+My main professional focus remains SEO, digital marketing strategy and marketing analytics.
 
 Skills:
 SEO | Technical SEO | Google Analytics | Data Analysis | Python | SQL | Power BI | Tableau | Excel | WordPress
@@ -49,13 +49,4 @@ SEO | Technical SEO | Google Analytics | Data Analysis | Python | SQL | Power BI
 - Kaggle: [Your Kaggle Profile](https://www.kaggle.com/siddhishastri)
 - Portfolio: [Your Website](https://github.com/Siddhishastri)
 - Email: [Your Email](shastrisiddhi118@gmail.com)
-
-## 📚 Learning Path
-
-- 🌱 **Current Goal:** Mastering Power BI and diving deeper into advanced SQL techniques.
-- 📘 **Books I'm Reading:** "Storytelling with Data" by Cole Nussbaumer Knaflic, "The Art of Data Science" by Roger D. Peng.
-
-## 💡 Fun Fact
-
-> "Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee
 
