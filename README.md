@@ -4,26 +4,14 @@ Hey there! I'm diving into the world of data analysis after years of excelling a
 
 ## About Me
 
-- 🔍 **What I Do:** I analyze data, build visualizations, and create reports that tell stories from numbers.
-- 📊 **Tools I Love:** Python, SQL, Excel, Tableau, Power BI.
-- 🧠 **Currently Learning:** Advanced Machine Learning Techniques and Time Series Analysis.
-- 🎯 **Passionate About:** Solving business problems through data and exploring the potential of data-driven decision-making.
-- 🌍 **Fun Fact:** When I’m not analyzing data, you’ll find me exploring the outdoors or learning about new cultures.
+I’m a Computer Science graduate and an Online Marketing Specialist with over 4 years of experience in SEO and digital marketing. My work focuses on technical SEO, website optimization, keyword strategy, and data-driven marketing decisions.
 
-## 🚀 Skills & Tools
+After moving to Germany, I started working on small data analysis projects as personal learning projects to strengthen my analytical and reporting skills. These projects help me better analyze marketing data, visualize performance metrics, and make data-driven SEO decisions.
 
-### **Data Analysis & Visualization**
-- 📈 **Languages:** Python (pandas, NumPy, matplotlib, seaborn), R, SQL.
-- 📊 **Visualization Tools:** Tableau, Power BI, Excel (Pivot Tables, Power Query).
-- 🗂️ **Database Management:** MySQL, PostgreSQL, MongoDB.
-- 🧮 **Statistics & Modeling:** Regression Analysis, Hypothesis Testing, A/B Testing.
+My main professional focus remains SEO, digital marketing strategy, and marketing analytics.
 
-### **Core Skills**
-- Data Wrangling and Cleaning.
-- Exploratory Data Analysis (EDA).
-- Dashboards and Reports.
-- KPI Design and Implementation.
-- Storytelling with Data.
+Skills:
+SEO | Technical SEO | Google Analytics | Data Analysis | Python | SQL | Power BI | Tableau | Excel | WordPress
 
 ---
 
