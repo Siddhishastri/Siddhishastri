@@ -1,9 +1,5 @@
 # Hi, I'm Siddhi!
 
-Hey there! I'm diving into the world of data analysis after years of excelling as a Marketing Analyst, specializing in e-commerce and finance.
-
-## About Me
-
 I’m a Computer Science graduate and an Online Marketing Specialist with over 4 years of experience in SEO and digital marketing. My work focuses on technical SEO, website optimization, keyword strategy, and data-driven marketing decisions.
 
 After moving to Germany, I started working on small data analysis projects as personal learning projects to strengthen my analytical and reporting skills. These projects help me better analyze marketing data, visualize performance metrics, and make data-driven SEO decisions.
